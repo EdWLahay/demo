@@ -8,4 +8,6 @@ This is a demo file
 
 thiis bound to cause trouble
 
-SOme more updates
+Some more updates
+
+Another line
